@@ -1,6 +1,5 @@
 // create your App component here
 import React, { useEffect, useState } from 'react';
-import { data } from '../mocks/data';
 
 const App = () => {
   const [image, setImage] = useState([]);
